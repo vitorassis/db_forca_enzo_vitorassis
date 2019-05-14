@@ -14,7 +14,6 @@ else:
     words = {}
 
 palavra = input('#> Palavra: ')
-print(palavra)
 while palavra != '':
     categoria = input('#> Categoria: ')
     dica = input('#> Dica: ')
@@ -28,3 +27,6 @@ while palavra != '':
 
 with open("BDWords.json",'w') as f:
     f.write(json.dumps(words, indent=4, sort_keys=True))
+
+os.system('git commit -a')
+os.system('git push')
