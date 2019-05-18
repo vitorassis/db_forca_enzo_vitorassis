@@ -1,4 +1,34 @@
 {
+    "Animais": [
+        {
+            "dica": "Fazenda",
+            "palavra": "carneiro"
+        },
+        {
+            "dica": "Amigo",
+            "palavra": "cachorro"
+        },
+        {
+            "dica": "Maior mam\u00edfero",
+            "palavra": "baleira"
+        },
+        {
+            "dica": "Walt Disney j\u00e1 desenhou",
+            "palavra": "rato"
+        },
+        {
+            "dica": "Comum",
+            "palavra": "gato"
+        },
+        {
+            "dica": "Fazenda",
+            "palavra": "vaca"
+        },
+        {
+            "dica": "Fazenda",
+            "palavra": "galinha"
+        }
+    ],
     "Frutas": [
         {
             "dica": "Fruta comum no Brasil",
