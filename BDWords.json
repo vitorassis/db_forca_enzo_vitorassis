@@ -27,6 +27,10 @@
         {
             "dica": "Fazenda",
             "palavra": "galinha"
+        },
+        {
+            "dica": "Herb\u00edvoro grande",
+            "palavra": "Girafa"
         }
     ],
     "Frutas": [
@@ -37,6 +41,32 @@
         {
             "dica": "Fruta origin\u00e1ria da \u00c1sia",
             "palavra": "Abacaxi"
+        },
+        {
+            "dica": "Fruta ou legume?",
+            "palavra": "Tomate"
+        }
+    ],
+    "Hist\u00f3ria": [
+        {
+            "dica": "Afundou no Atl\u00e2ntico",
+            "palavra": "Titanic"
+        },
+        {
+            "dica": "Mudou os rumos da Humanidade",
+            "palavra": "Segunda Guerra Mundial"
+        },
+        {
+            "dica": "Per\u00edodo mais frut\u00edfero do Brasil (fonte: Enciclop\u00e9dia Brit\u00e2nica)",
+            "palavra": "Segundo Reinado"
+        },
+        {
+            "dica": "Ditador sanguin\u00e1rio idolatrado por muitos",
+            "palavra": "Get\u00falio Vargas"
+        },
+        {
+            "dica": "O Pacificador, Patrono do Ex\u00e9rcito",
+            "palavra": "Duque de Caxias"
         }
     ],
     "Lugares": [
