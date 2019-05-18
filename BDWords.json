@@ -77,6 +77,26 @@
         {
             "dica": "Demonstra o tom da m\u00fasica",
             "palavra": "Armadura"
+        },
+        {
+            "dica": "Quem toca viol\u00e3o",
+            "palavra": "violonista"
+        },
+        {
+            "dica": "Quem toca violino",
+            "palavra": "violinista"
+        },
+        {
+            "dica": "Unidade r\u00edtmica da m\u00fasica",
+            "palavra": "compasso"
+        },
+        {
+            "dica": "Ritmo ou velocidade",
+            "palavra": "andamento"
+        },
+        {
+            "dica": "andamento mais r\u00e1pido",
+            "palavra": "prest\u00edssimo"
         }
     ],
     "Objetos": [
@@ -109,6 +129,10 @@
         {
             "dica": "melhor time do Brasil",
             "palavra": "Corinthians"
+        },
+        {
+            "dica": "N\u00e3o tem Mundial!",
+            "palavra": "Palmeiras"
         }
     ]
 }
