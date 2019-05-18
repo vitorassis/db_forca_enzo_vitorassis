@@ -10,7 +10,7 @@
         },
         {
             "dica": "Maior mam\u00edfero",
-            "palavra": "baleira"
+            "palavra": "baleia"
         },
         {
             "dica": "Walt Disney j\u00e1 desenhou",
@@ -57,10 +57,52 @@
             "palavra": "Sapataria"
         }
     ],
+    "M\u00fasica": [
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "violino"
+        },
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "Viola"
+        },
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "Violoncelo"
+        },
+        {
+            "dica": "Descreve a posi\u00e7\u00e3o das notas na partitura",
+            "palavra": "Clave"
+        },
+        {
+            "dica": "Demonstra o tom da m\u00fasica",
+            "palavra": "Armadura"
+        }
+    ],
     "Objetos": [
         {
             "dica": "Usa-se para carregar coisas",
             "palavra": "Mochila"
+        },
+        {
+            "dica": "Ilumina",
+            "palavra": "vela"
+        },
+        {
+            "dica": "Cozinha",
+            "palavra": "Faca"
+        },
+        {
+            "dica": "Cozinha",
+            "palavra": "Garfo"
+        },
+        {
+            "dica": "Pendurar roupas",
+            "palavra": "Cabide"
+        },
+        {
+            "dica": "Sentar",
+            "palavra": "Cadeira"
         }
     ],
     "Times": [
