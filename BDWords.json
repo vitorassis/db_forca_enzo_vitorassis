@@ -91,6 +91,20 @@
             "palavra": "Sapataria"
         }
     ],
+    "Marcas": [
+        {
+            "dica": "Empresa sul-coreana de eletr\u00f4nicos",
+            "palavra": "Samsung"
+        },
+        {
+            "dica": "Empresa americana de eletr\u00f4nicos",
+            "palavra": "Apple"
+        },
+        {
+            "dica": "Empresa chinesa de eletr\u00f4nicos",
+            "palavra": "Lenovo"
+        }
+    ],
     "M\u00fasica": [
         {
             "dica": "Instrumento de cordas",
