@@ -31,6 +31,20 @@
         {
             "dica": "Herb\u00edvoro grande",
             "palavra": "Girafa"
+        },
+        {
+            "dica": "Esp\u00e9cie de animal que tem seu habitat natural na Am\u00e9rica do norte e central",
+            "palavra": "Coiote"
+        },
+        {
+            "dica": "Animal da fam\u00edlia canidae,sendo um animal t\u00edpico do cerrado",
+            "palavra": "Lobo-guar\u00e1"
+        }
+    ],
+    "Bot\u00e2nica": [
+        {
+            "dica": "\u00c1rvore frutifera comum no leste asi\u00e1tico",
+            "palavra": "Cerejeira"
         }
     ],
     "Frutas": [
@@ -45,6 +59,24 @@
         {
             "dica": "Fruta ou legume?",
             "palavra": "Tomate"
+        },
+        {
+            "dica": "Fruta \u00e1cida",
+            "palavra": "Lim\u00e3o"
+        },
+        {
+            "dica": "Fruta ex\u00f3tica",
+            "palavra": "Chicozapote"
+        }
+    ],
+    "Geografia": [
+        {
+            "dica": "Pa\u00eds falante da l\u00edngua inglesa",
+            "palavra": "Guiana"
+        },
+        {
+            "dica": "Maior Munic\u00edpio brasileiro,localizado no Par\u00e1",
+            "palavra": "Altamira"
         }
     ],
     "Hist\u00f3ria": [
@@ -71,6 +103,10 @@
         {
             "dica": "Tido como libertador, mas tirou-nos um futuro brilhante.",
             "palavra": "Marechal Deodoro da Fonseca"
+        },
+        {
+            "dica": "Foi um famoso l\u00edder pol\u00edtico franc\u00eas ",
+            "palavra": "Napole\u00e3o Bonaparte"
         }
     ],
     "Lugares": [
@@ -89,6 +125,10 @@
         {
             "dica": "Onde se compra sapatos",
             "palavra": "Sapataria"
+        },
+        {
+            "dica": "Vamos quando quando sentimos necessidade",
+            "palavra": "Banheiro"
         }
     ],
     "Marcas": [
@@ -103,6 +143,18 @@
         {
             "dica": "Empresa chinesa de eletr\u00f4nicos",
             "palavra": "Lenovo"
+        },
+        {
+            "dica": "Uma das maiores empresas de tecnologia",
+            "palavra": "Google"
+        },
+        {
+            "dica": "General Motors",
+            "palavra": "Chevrolet"
+        },
+        {
+            "dica": "Marca chinesa conhecida por fabricar celulares e computadores",
+            "palavra": "Asus"
         }
     ],
     "M\u00fasica": [
@@ -171,6 +223,40 @@
         {
             "dica": "Sentar",
             "palavra": "Cadeira"
+        },
+        {
+            "dica": "M\u00f3vel utilizado para escrever ou guardar documentos ",
+            "palavra": "Escrivaninha"
+        },
+        {
+            "dica": "Produz luz",
+            "palavra": "L\u00e2mpada"
+        },
+        {
+            "dica": "Conhecido em Portugal como rato",
+            "palavra": "Mouse"
+        },
+        {
+            "dica": "Gerador el\u00e9trico de corrrente cont\u00ednua",
+            "palavra": "Magneto"
+        },
+        {
+            "dica": "Pe\u00e7a de bicicleta e moto",
+            "palavra": "Garfo"
+        },
+        {
+            "dica": "Objeto que impede o acesso a uma determinada \u00e1rea",
+            "palavra": "Cadeados"
+        }
+    ],
+    "Pessoas": [
+        {
+            "dica": "Engenheiro alem\u00e3o",
+            "palavra": "Nikolaus Otto"
+        },
+        {
+            "dica": "Co-fundador do Studio Ghibli",
+            "palavra": "Hayao Miyazaki"
         }
     ],
     "Times": [
