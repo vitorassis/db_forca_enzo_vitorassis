@@ -47,6 +47,24 @@
             "palavra": "Cerejeira"
         }
     ],
+    "Elementos Qu\u00edmicos": [
+        {
+            "dica": "Tem no osso",
+            "palavra": "C\u00e1lcio"
+        },
+        {
+            "dica": "Utilizado na confec\u00e7\u00e3o de fios el\u00e9tricos",
+            "palavra": "Cobre"
+        },
+        {
+            "dica": "Metal branco prateado brilhante",
+            "palavra": "\u00cdndio"
+        },
+        {
+            "dica": "Metal duro, fr\u00e1gil, de colora\u00e7\u00e3o cinza",
+            "palavra": "Cromo"
+        }
+    ],
     "Frutas": [
         {
             "dica": "Fruta comum no Brasil",
@@ -277,6 +295,10 @@
         {
             "dica": "Kirito",
             "palavra": "Kazuto Kirigaya"
+        },
+        {
+            "dica": "Ouri\u00e7o azul carism\u00e1tico",
+            "palavra": "Sonic"
         }
     ],
     "Pessoas": [
