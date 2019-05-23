@@ -67,6 +67,16 @@
         {
             "dica": "Fruta ex\u00f3tica",
             "palavra": "Chicozapote"
+        },
+        {
+            "dica": "Fruta vem de uma \u00e1rvore chamada lichieira",
+            "palavra": "Lichia"
+        }
+    ],
+    "Frutas]": [
+        {
+            "dica": "Fruta africana que tem pequenos chifrinhos",
+            "palavra": "Kino"
         }
     ],
     "Geografia": [
@@ -251,6 +261,24 @@
         {
             "dica": "Objeto que impede o acesso a uma determinada \u00e1rea",
             "palavra": "Cadeados"
+        },
+        {
+            "dica": "\u00c9 um protocolo de conex\u00e3o",
+            "palavra": "Universal Serial Bus"
+        }
+    ],
+    "Personagens": [
+        {
+            "dica": "Homem morcego",
+            "palavra": "Batman"
+        },
+        {
+            "dica": "Veio para a Terra enquanto crian\u00e7a",
+            "palavra": "Son Goku"
+        },
+        {
+            "dica": "Kirito",
+            "palavra": "Kazuto Kirigaya"
         }
     ],
     "Pessoas": [
