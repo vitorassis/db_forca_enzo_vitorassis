@@ -43,48 +43,48 @@
         {
             "dica": "Esp\u00e9cie de animal que tem seu habitat natural na Am\u00e9rica do norte e central",
             "palavra": "Coiote",
-            "pontos": 100
+            "pontos": 150
         },
         {
             "dica": "Animal da fam\u00edlia canidae,sendo um animal t\u00edpico do cerrado",
             "palavra": "Lobo-guar\u00e1",
-            "pontos": 100
+            "pontos": 200
         }
     ],
     "Bot\u00e2nica": [
         {
             "dica": "\u00c1rvore frutifera comum no leste asi\u00e1tico",
             "palavra": "Cerejeira",
-            "pontos": 100
+            "pontos": 110
         }
     ],
     "Elementos Qu\u00edmicos": [
         {
             "dica": "Tem no osso",
             "palavra": "C\u00e1lcio",
-            "pontos": 100
+            "pontos": 120
         },
         {
             "dica": "Utilizado na confec\u00e7\u00e3o de fios el\u00e9tricos",
             "palavra": "Cobre",
-            "pontos": 100
+            "pontos": 150
         },
         {
             "dica": "Metal branco prateado brilhante",
             "palavra": "\u00cdndio",
-            "pontos": 100
+            "pontos": 250
         },
         {
             "dica": "Metal duro, fr\u00e1gil, de colora\u00e7\u00e3o cinza",
             "palavra": "Cromo",
-            "pontos": 100
+            "pontos": 500
         }
     ],
     "Frutas": [
         {
             "dica": "Fruta comum no Brasil",
             "palavra": "Ma\u00e7\u00e3",
-            "pontos": 100
+            "pontos": 50
         },
         {
             "dica": "Fruta origin\u00e1ria da \u00c1sia",
@@ -94,39 +94,39 @@
         {
             "dica": "Fruta ou legume?",
             "palavra": "Tomate",
-            "pontos": 100
+            "pontos": 110
         },
         {
             "dica": "Fruta \u00e1cida",
             "palavra": "Lim\u00e3o",
-            "pontos": 100
+            "pontos": 120
         },
         {
             "dica": "Fruta ex\u00f3tica",
             "palavra": "Chicozapote",
-            "pontos": 100
+            "pontos": 1000
         },
         {
             "dica": "Fruta vem de uma \u00e1rvore chamada lichieira",
             "palavra": "Lichia",
-            "pontos": 100
+            "pontos": 130
         },
         {
             "dica": "Fruta africana que tem pequenos chifrinhos",
             "palavra": "Kino",
-            "pontos": 100
+            "pontos": 800
         }
     ],
     "Geografia": [
         {
             "dica": "Pa\u00eds falante da l\u00edngua inglesa",
             "palavra": "Guiana",
-            "pontos": 100
+            "pontos": 600
         },
         {
             "dica": "Maior Munic\u00edpio brasileiro,localizado no Par\u00e1",
             "palavra": "Altamira",
-            "pontos": 100
+            "pontos": 2000
         }
     ],
     "Hist\u00f3ria": [
@@ -143,32 +143,32 @@
         {
             "dica": "Per\u00edodo mais frut\u00edfero do Brasil (fonte: Enciclop\u00e9dia Brit\u00e2nica)",
             "palavra": "Segundo Reinado",
-            "pontos": 100
+            "pontos": 150
         },
         {
             "dica": "Ditador sanguin\u00e1rio idolatrado por muitos",
             "palavra": "Get\u00falio Vargas",
-            "pontos": 100
+            "pontos": 130
         },
         {
             "dica": "O Pacificador, Patrono do Ex\u00e9rcito",
             "palavra": "Duque de Caxias",
-            "pontos": 100
+            "pontos": 150
         },
         {
             "dica": "Tido como libertador, mas tirou-nos um futuro brilhante.",
             "palavra": "Marechal Deodoro da Fonseca",
-            "pontos": 100
+            "pontos": 200
         },
         {
             "dica": "Foi um famoso l\u00edder pol\u00edtico franc\u00eas ",
             "palavra": "Napole\u00e3o Bonaparte",
-            "pontos": 100
+            "pontos": 150
         },
         {
             "dica": "Foi uma mulher samurai",
             "palavra": "Onna-Bugeisha",
-            "pontos": 100
+            "pontos": 3000
         }
     ],
     "Lugares": [
@@ -212,12 +212,12 @@
         {
             "dica": "Empresa chinesa de eletr\u00f4nicos",
             "palavra": "Lenovo",
-            "pontos": 100
+            "pontos": 1000
         },
         {
             "dica": "Uma das maiores empresas de tecnologia",
             "palavra": "Google",
-            "pontos": 100
+            "pontos": 300
         },
         {
             "dica": "General Motors",
@@ -227,58 +227,6 @@
         {
             "dica": "Marca chinesa conhecida por fabricar celulares e computadores",
             "palavra": "Asus",
-            "pontos": 100
-        }
-    ],
-    "M\u00fasica": [
-        {
-            "dica": "Instrumento de cordas",
-            "palavra": "violino",
-            "pontos": 100
-        },
-        {
-            "dica": "Instrumento de cordas",
-            "palavra": "Viola",
-            "pontos": 100
-        },
-        {
-            "dica": "Instrumento de cordas",
-            "palavra": "Violoncelo",
-            "pontos": 100
-        },
-        {
-            "dica": "Descreve a posi\u00e7\u00e3o das notas na partitura",
-            "palavra": "Clave",
-            "pontos": 100
-        },
-        {
-            "dica": "Demonstra o tom da m\u00fasica",
-            "palavra": "Armadura",
-            "pontos": 100
-        },
-        {
-            "dica": "Quem toca viol\u00e3o",
-            "palavra": "violonista",
-            "pontos": 100
-        },
-        {
-            "dica": "Quem toca violino",
-            "palavra": "violinista",
-            "pontos": 100
-        },
-        {
-            "dica": "Unidade r\u00edtmica da m\u00fasica",
-            "palavra": "compasso",
-            "pontos": 100
-        },
-        {
-            "dica": "Ritmo ou velocidade",
-            "palavra": "andamento",
-            "pontos": 100
-        },
-        {
-            "dica": "andamento mais r\u00e1pido",
-            "palavra": "prest\u00edssimo",
             "pontos": 100
         }
     ],
@@ -331,7 +279,7 @@
         {
             "dica": "Gerador el\u00e9trico de corrrente cont\u00ednua",
             "palavra": "Magneto",
-            "pontos": 100
+            "pontos": 1000
         },
         {
             "dica": "Pe\u00e7a de bicicleta e moto",
@@ -346,7 +294,7 @@
         {
             "dica": "\u00c9 um protocolo de conex\u00e3o",
             "palavra": "Universal Serial Bus",
-            "pontos": 100
+            "pontos": 1500
         }
     ],
     "Personagens": [
@@ -358,12 +306,12 @@
         {
             "dica": "Veio para a Terra enquanto crian\u00e7a",
             "palavra": "Son Goku",
-            "pontos": 100
+            "pontos": 1000
         },
         {
             "dica": "Kirito",
             "palavra": "Kazuto Kirigaya",
-            "pontos": 100
+            "pontos": 2000
         },
         {
             "dica": "Ouri\u00e7o azul carism\u00e1tico",
@@ -375,17 +323,69 @@
         {
             "dica": "Engenheiro alem\u00e3o",
             "palavra": "Nikolaus Otto",
-            "pontos": 100
+            "pontos": 2500
         },
         {
             "dica": "Co-fundador do Studio Ghibli",
             "palavra": "Hayao Miyazaki",
-            "pontos": 100
+            "pontos": 3000
         },
         {
             "dica": "Uma mulheres das respons\u00e1veis pelo Projeto Apollo",
             "palavra": "Margaret Haminton",
+            "pontos": 1100
+        }
+    ],
+    "Teoria Musical": [
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "violino",
             "pontos": 100
+        },
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "Viola",
+            "pontos": 100
+        },
+        {
+            "dica": "Instrumento de cordas",
+            "palavra": "Violoncelo",
+            "pontos": 100
+        },
+        {
+            "dica": "Descreve a posi\u00e7\u00e3o das notas na partitura",
+            "palavra": "Clave",
+            "pontos": 1050
+        },
+        {
+            "dica": "Demonstra o tom da m\u00fasica",
+            "palavra": "Armadura",
+            "pontos": 1000
+        },
+        {
+            "dica": "Quem toca viol\u00e3o",
+            "palavra": "violonista",
+            "pontos": 100
+        },
+        {
+            "dica": "Quem toca violino",
+            "palavra": "violinista",
+            "pontos": 100
+        },
+        {
+            "dica": "Unidade r\u00edtmica da m\u00fasica",
+            "palavra": "compasso",
+            "pontos": 1000
+        },
+        {
+            "dica": "Ritmo ou velocidade",
+            "palavra": "andamento",
+            "pontos": 1070
+        },
+        {
+            "dica": "andamento mais r\u00e1pido",
+            "palavra": "prest\u00edssimo",
+            "pontos": 2000
         }
     ],
     "Times": [

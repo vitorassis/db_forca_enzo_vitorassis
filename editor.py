@@ -14,10 +14,10 @@ if words != {}:
 else:
     words = {}
 
-for categoria in words:
-    for palavra in words[categoria]:
-        palavra.update(dict({'pontos':100}))
-        print(palavra)
+#for categoria in words:
+#    for palavra in words[categoria]:
+#        palavra.update(dict({'pontos':100}))
+#        print(palavra)
 
 palavra = input('#> Palavra: ')
 while palavra != '':
