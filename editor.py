@@ -6,12 +6,18 @@ print('====== Jogo da Forca - EDITOR =======')
 print('Coded by Vitor Assis & Enzo Benvengo ')
 print('=====================================')
 print()
+words = None
 with open("BDWords.json",'r') as f:
     words = f.read()
 if words != {}:
     words = json.loads(words)
 else:
     words = {}
+
+for categoria in words:
+    for palavra in words[categoria]:
+        palavra.update(dict({'pontos':100}))
+        print(palavra)
 
 palavra = input('#> Palavra: ')
 while palavra != '':
