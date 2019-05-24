@@ -23,11 +23,12 @@ palavra = input('#> Palavra: ')
 while palavra != '':
     categoria = input('#> Categoria: ')
     dica = input('#> Dica: ')
+    pontos = int(input('#> Pontos: '))
 
     if categoria not in list(words.keys()):
         words[categoria] = []
 
-    words[categoria].append({"palavra":palavra, "dica": dica})
+    words[categoria].append({"palavra":palavra, "dica": dica, 'pontos': pontos})
 
     palavra = input('#> Palavra: ')
 
