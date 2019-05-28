@@ -26,15 +26,5 @@
             10,
             15
         ]
-    },
-    {
-        "cod": "teste",
-        "nome": "Teste",
-        "valor": 1,
-        "opcoes": [
-            1,
-            2,
-            3
-        ]
     }
 ]
